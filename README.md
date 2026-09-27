@@ -6,6 +6,8 @@ A privacy-first AI automation project for turning voice or text input into struc
 
 This repository is a clean public portfolio edition. The production workflow and all organisation-specific procedures remain private.
 
+> **Engineering case study:** [architecture decisions, failure modes and privacy boundary](docs/case-study.md)
+
 ## What it demonstrates
 
 - Telegram voice or text input
