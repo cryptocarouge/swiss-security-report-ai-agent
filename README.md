@@ -2,6 +2,8 @@
 
 # Swiss Security Report AI Agent
 
+**Live project page:** https://cryptocarouge.github.io/projects/swiss-security-report-ai-agent.html
+
 A privacy-first AI automation project for turning voice or text input into structured professional incident reports in French.
 
 This repository is a clean public portfolio edition. The production workflow and all organisation-specific procedures remain private.
