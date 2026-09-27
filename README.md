@@ -1,5 +1,8 @@
 <p align="center"><img src="assets/header.svg" alt="Swiss Security Report AI Agent" width="100%"></p>
 
+[![Public safety scan](https://github.com/cryptocarouge/swiss-security-report-ai-agent/actions/workflows/public-safety.yml/badge.svg)](https://github.com/cryptocarouge/swiss-security-report-ai-agent/actions/workflows/public-safety.yml)  
+**Portfolio-safe public edition · production remains private**
+
 # Swiss Security Report AI Agent
 
 **Live project page:** https://cryptocarouge.github.io/projects/swiss-security-report-ai-agent.html
